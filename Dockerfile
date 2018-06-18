@@ -28,4 +28,5 @@ RUN /usr/local/bin/install-plugins.sh \
         pipeline-github-lib \
         ssh-slaves \
         timestamper \
-        ws-cleanup
+        ws-cleanup \
+        amazon-ecr
