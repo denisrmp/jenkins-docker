@@ -29,4 +29,5 @@ RUN /usr/local/bin/install-plugins.sh \
         ssh-slaves \
         timestamper \
         ws-cleanup \
-        amazon-ecr
+        amazon-ecr \
+        ssh-agent
