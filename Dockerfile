@@ -30,4 +30,5 @@ RUN /usr/local/bin/install-plugins.sh \
         timestamper \
         ws-cleanup \
         amazon-ecr \
-        ssh-agent
+        ssh-agent \
+        pipeline-aws
