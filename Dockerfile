@@ -31,4 +31,7 @@ RUN /usr/local/bin/install-plugins.sh \
         ws-cleanup \
         amazon-ecr \
         ssh-agent \
-        pipeline-aws
+        pipeline-aws \
+        sonar \
+        bitbucket-build-status-notifier \
+        cucumber-reports
